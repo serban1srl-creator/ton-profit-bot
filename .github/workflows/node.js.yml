@@ -1,0 +1,18 @@
+{
+  "name": "ton-profit-bot-2026",
+  "version": "1.0.0",
+  "description": "Bot de Swap TON cu taxa 1.5% si Auto-Claim",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "@ton/ton": "^13.9.0",
+    "@ton/core": "^0.53.0",
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
