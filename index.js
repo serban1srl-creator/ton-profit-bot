@@ -2,7 +2,7 @@ const { Telegraf, Markup } = require('telegraf');
 const axios = require('axios');
 
 // PRELUARE VARIABILE DIN RENDER (Environment Variables)
-const bot = new Telegraf(process.env.BOT_TOKEN);AAGKKvc9wemtMWM31hu_OHhJVus48gMVmk8
+const bot = new Telegraf(process.env.BOT_TOKEN);7450155317:AAGKKvc9wemtMWM31hu_OHhJVus48gMVmk8
 
 const MY_WALLET = process.env.MY_WALLET; // UQAuBXNv896BTLY8b7sJKy0yKmL5FXVf1ci_g3VUvmVzKxul
 const SWAP_FEE = 0.015; // 1.5% Comision Swap
